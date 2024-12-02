@@ -1,0 +1,16 @@
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\DemoAlmacen.Form1.resources
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\DemoAlmacen.csproj.GenerateResource.cache
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\DemoAlmacen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\DemoAlmacen.AssemblyInfoInputs.cache
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\DemoAlmacen.AssemblyInfo.cs
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\DemoAlmacen.csproj.CoreCompileInputs.cache
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\bin\Debug\net8.0-windows\DemoAlmacen.exe
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\bin\Debug\net8.0-windows\DemoAlmacen.deps.json
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\bin\Debug\net8.0-windows\DemoAlmacen.runtimeconfig.json
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\bin\Debug\net8.0-windows\DemoAlmacen.dll
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\bin\Debug\net8.0-windows\DemoAlmacen.pdb
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\DemoAlmacen.dll
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\refint\DemoAlmacen.dll
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\DemoAlmacen.pdb
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\DemoAlmacen.genruntimeconfig.cache
+D:\Carlos\AA14\Demostracion de Almacen\DemoAlmacen\DemoAlmacen\obj\Debug\net8.0-windows\ref\DemoAlmacen.dll
